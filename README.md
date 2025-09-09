@@ -4,4 +4,4 @@
 - 🔭 I’m currently working at UTMIST as a GPU Compute Platform Engineer
 - 🌱 I’m currently learning Linux Graphics Driver Development (DRM/KMS)
 
-![](https://komarev.com/ghpvc/?username=GaminRick7&style=flat-square&color=brown)
+![](https://komarev.com/ghpvc/?username=GaminRick7&color=lightgrey)
