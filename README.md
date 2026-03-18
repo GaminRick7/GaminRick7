@@ -1,7 +1,7 @@
 ## hi i'm raihaan :)
 
--  I'm a second-year CS student at the University of Toronto!
--  I’m currently working at UTMIST as a Software Engineer (Compute Platform)
--  My favourite language is C++!
+-  i'm a second-year CS student at the University of Toronto!
+-  i’m currently working at UTMIST as a Software Engineer (Compute Platform)
+-  i like game dev, graphics programming, and (some) distributed systems work
 
 ![](https://komarev.com/ghpvc/?username=GaminRick7&color=lightgrey)
